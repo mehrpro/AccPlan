@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AccPlan
+namespace AccPlan.UserPanel
 {
-    public partial class Form1 : Form
+    public partial class FrmPayments : Form
     {
-        public Form1()
+        public FrmPayments()
         {
             InitializeComponent();
         }
